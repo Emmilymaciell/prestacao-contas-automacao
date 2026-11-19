@@ -1,0 +1,39 @@
+# padrao de escritorio (CLAUDE.md global)
+~$*
+*.tmp
+.~lock.*
+Thumbs.db
+desktop.ini
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+*.log
+/temp/
+/scratch/
+/artifacts/
+# segredos
+.env
+.env.*
+# build e binarios
+/build/
+/dist/
+*.exe
+*.zip
+*.rar
+# dados e saidas (Drive/SharePoint, nunca Git)
+*.pdf
+*.csv
+*.jsonl
+*.xlsx
+*.xlsm
+*.msg
+_logs/
+# especificos
+/GO*/
+/Word/
+/output/
+# exemplo e saídas locais
+/saida/
+/examples/engenharia/
