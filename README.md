@@ -69,6 +69,13 @@ README de trabalho original (sanitizado): [`docs/README-original-sanitizado.md`]
 
 Python 3.10+ · pypdf · python-docx
 
+## Verificação, sanitização e licença
+
+- **Testes:** sem suíte automatizada; execução ponta a ponta com os dados fictícios conferida em 18/11/2026 (passos em "Como rodar").
+- **Dados:** fictícios — cópia sanitizada de um sistema em uso real; nenhum dado de cliente ou de terceiro.
+- **Sanitização:** o que foi removido, trocado ou inventado nesta cópia está em [`SANITIZACAO.md`](SANITIZACAO.md).
+- **Licença:** todos os direitos reservados; leitura permitida para avaliação de portfólio — ver [`LICENSE`](LICENSE) e [`NOTICE`](NOTICE).
+
 ## Aviso
 
 *Dados fictícios. Versão sanitizada de um sistema em uso real; identificadores do cliente foram substituídos.*
